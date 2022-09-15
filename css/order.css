@@ -20,6 +20,13 @@ body{
     text-align: center;
     text-transform: uppercase;
 }
+
+.menu__arr{
+    font-size: 32px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #817070;;
+}
 .order{
     background: #817070;
     padding: 50px 0;
